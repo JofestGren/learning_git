@@ -1,3 +1,4 @@
-function getPerson(name, surname) {
-	return name + " " + surname;
+function getPerson(name, surname, age) {
+	return name + " " + surname + " : " + age;
 }
+
